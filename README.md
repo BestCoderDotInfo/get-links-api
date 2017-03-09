@@ -1,24 +1,9 @@
-# README
+#GET LINKS  API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Todos
 
-Things you may want to cover:
+[x] Get url of photo from public post instagram. Using : `http://localhost:3000/v1/instagram?url=https://www.instagram.com/p/BRNfs1-Apup/`
 
-* Ruby version
+[] Get url of video from public post facebook
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[] Download all photos of public user in instagram
